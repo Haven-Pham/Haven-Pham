@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Pham Hong Hieu (Haven) — Supply Chain × Data Analytics × Applied AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030A16"/>
+      <stop offset="0.55" stop-color="#0A1C33"/>
+      <stop offset="1" stop-color="#0E2746"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#1D6AE5"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#38BDF8" opacity="0.12"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.82" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#1D6AE5" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#1D6AE5" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .t { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace; }
+      .flow { stroke-dasharray: 6 8; animation: dash 1.6s linear infinite; }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      @keyframes dash { to { stroke-dashoffset: -28; } }
+      @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .flow, .pulse { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#38A0F8" stroke-opacity="0.28"/>
+
+  <!-- identity -->
+  <g class="t">
+    <text x="60" y="78" fill="#38BDF8" font-size="15" font-weight="700" letter-spacing="3.5">FROM OPERATIONS TO DATA INSIGHTS</text>
+    <text x="58" y="142" fill="#FFFFFF" font-size="54" font-weight="800" letter-spacing="-1.5">Pham Hong Hieu</text>
+    <text x="58" y="196" fill="url(#accent)" font-size="38" font-weight="800">Haven · 范鴻孝</text>
+    <text x="60" y="238" fill="#CADBF0" font-size="18" font-weight="500">Supply Chain Analyst  ·  SQL · Python · Power BI  ·  Applied NLP Research</text>
+    <text x="60" y="268" fill="#8BA5C6" font-size="14">Global MBA (GPA 4.00), Yuan Ze University, Taiwan  ·  ex-Hoa Sen Group · Kodai Sangyo · Viet Logistics</text>
+  </g>
+
+  <!-- pipeline -->
+  <g class="mono" font-size="13" font-weight="700">
+    <g transform="translate(770 70)">
+      <rect width="150" height="40" rx="10" fill="#0E2746" stroke="#38BDF8" stroke-opacity="0.45"/>
+      <text x="75" y="25" text-anchor="middle" fill="#7DD3FC">OPERATIONS</text>
+    </g>
+    <g transform="translate(980 70)">
+      <rect width="150" height="40" rx="10" fill="#0E2746" stroke="#38BDF8" stroke-opacity="0.45"/>
+      <text x="75" y="25" text-anchor="middle" fill="#7DD3FC">SQL · PYTHON</text>
+    </g>
+    <g transform="translate(980 150)">
+      <rect width="150" height="40" rx="10" fill="#0E2746" stroke="#38BDF8" stroke-opacity="0.45"/>
+      <text x="75" y="25" text-anchor="middle" fill="#7DD3FC">POWER BI · AI</text>
+    </g>
+    <g transform="translate(770 150)">
+      <rect width="150" height="40" rx="10" fill="#1D6AE5"/>
+      <text x="75" y="25" text-anchor="middle" fill="#FFFFFF">DECISIONS</text>
+    </g>
+    <path class="flow" d="M920 90 H980" stroke="#38BDF8" stroke-width="2" fill="none"/>
+    <path class="flow" d="M1055 110 V150" stroke="#38BDF8" stroke-width="2" fill="none"/>
+    <path class="flow" d="M980 170 H920" stroke="#38BDF8" stroke-width="2" fill="none"/>
+    <circle class="pulse" cx="1142" cy="34" r="6" fill="#10B981"/>
+    <text x="1128" y="39" text-anchor="end" fill="#34D399" font-size="12">OPEN TO OPPORTUNITIES</text>
+  </g>
+
+  <!-- stats strip -->
+  <g class="t" transform="translate(770 220)">
+    <text x="0" y="22" fill="#FFFFFF" font-size="24" font-weight="800">8.5M</text>
+    <text x="0" y="42" fill="#8BA5C6" font-size="12">patents analysed</text>
+    <text x="125" y="22" fill="#FFFFFF" font-size="24" font-weight="800">45+</text>
+    <text x="125" y="42" fill="#8BA5C6" font-size="12">GPU experiment runs</text>
+    <text x="265" y="22" fill="#FFFFFF" font-size="24" font-weight="800">22</text>
+    <text x="265" y="42" fill="#8BA5C6" font-size="12">certifications</text>
+  </g>
+</svg>
