@@ -188,7 +188,12 @@ All 22 certificates, with verification links, are listed on the [portfolio websi
 **Latest repositories** (updated daily by GitHub Actions)
 
 <!-- LATEST-REPOS:START -->
-_Updated automatically by GitHub Actions._
+| Repository | Description | Language | Last push |
+|---|---|---|---|
+| [**ecommerce-cohort-retention-analysis**](https://github.com/Haven-Pham/ecommerce-cohort-retention-analysis) | Cohort, retention & profitability analysis of 51K e-commerce order lines: Python, pandas, tests and CI | Jupyter Notebook | 2026-10-27 |
+| [**ecommerce-analytics-demo**](https://github.com/Haven-Pham/ecommerce-analytics-demo) | Project analyzing data in E-commerce | Jupyter Notebook | 2026-10-26 |
+| [**Portfolio**](https://github.com/Haven-Pham/Portfolio) |  | Jupyter Notebook | 2026-10-13 |
+| [**MY-RESUME**](https://github.com/Haven-Pham/MY-RESUME) |  | Jupyter Notebook | 2026-04-17 |
 <!-- LATEST-REPOS:END -->
 
 <br>
