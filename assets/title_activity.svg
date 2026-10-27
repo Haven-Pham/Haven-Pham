@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="GITHUB ACTIVITY">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0A1C33"/>
+      <stop offset="1" stop-color="#030A16"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#1D6AE5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="64" rx="12" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="1199" height="63" rx="12" fill="none" stroke="#38A0F8" stroke-opacity="0.22"/>
+  <rect x="0" y="12" width="5" height="40" rx="2.5" fill="url(#a)"/>
+  <text x="30" y="40" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#38BDF8">07</text>
+  <text x="66" y="41" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="1.5" fill="#FFFFFF">GITHUB ACTIVITY</text>
+  <text x="1170" y="40" text-anchor="end" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#8BA5C6">Live stats, updated automatically</text>
+</svg>
