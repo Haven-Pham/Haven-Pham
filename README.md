@@ -17,22 +17,9 @@
 
 <img src="assets/title_about.svg" width="100%" alt="About me">
 
-```yaml
-haven_pham:
-  role: Supply Chain & Data Analyst
-  based_in: Taoyuan, Taiwan
-  summary: >
-    Over two years in supply planning, freight forwarding and import/export,
-    now combining that operations experience with SQL, Python and Power BI
-    to explain where supply chains lose time and money.
-  strengths:
-    analytics: [SQL (HackerRank Advanced), Python · pandas, Power BI · DAX, Excel]
-    supply_chain: [OTIF and lead-time analysis, inventory control, supplier performance]
-    systems: [Oracle ERP, SAP Business One, Odoo]
-    research: [patent analytics, few-shot NLP, reproducible experiments]
-  languages: [Vietnamese (native), English (TOEIC 840), Mandarin (TOCFL A2)]
-  currently: Global MBA at Yuan Ze University · GPA 4.00 / 4.00
-```
+<img src="assets/about.svg" width="100%" alt="Supply chain analyst with an operations background. Over two years planning purchases in Oracle ERP, quoting freight and preparing export documents; now using SQL, Python and Power BI to find where supply chains lose time and money. Focus: supply chain analytics, business intelligence, applied research. Global MBA GPA 4.00, three ERP systems, three languages. Based in Taoyuan, Taiwan.">
+
+<br>
 
 <img src="assets/title_experience.svg" width="100%" alt="Experience and education">
 

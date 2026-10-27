@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="About Pham Hong Hieu: supply chain analyst with an operations background">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030A16"/>
+      <stop offset="1" stop-color="#0A1C33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#1D6AE5"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E2746"/>
+      <stop offset="1" stop-color="#0A1C33"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .h { font-size: 24px; font-weight: 800; fill: #FFFFFF; }
+      .p { font-size: 16px; fill: #CADBF0; }
+      .k { font-size: 15px; font-weight: 700; fill: #FFFFFF; }
+      .d { font-size: 14px; fill: #8BA5C6; }
+      .num { font-size: 34px; font-weight: 800; fill: #FFFFFF; }
+      .lab { font-size: 13px; font-weight: 700; fill: #38BDF8; letter-spacing: 1px; }
+      .sub { font-size: 12.5px; fill: #8BA5C6; }
+      .chip { font-size: 13px; font-weight: 600; fill: #CADBF0; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="400" rx="16" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="16" fill="none" stroke="#38A0F8" stroke-opacity="0.22"/>
+
+  <!-- Left: introduction -->
+  <g class="sans">
+    <text x="48" y="64" class="h">Supply chain analyst, operations background</text>
+    <rect x="48" y="80" width="64" height="4" rx="2" fill="url(#accent)"/>
+    <text x="48" y="118" class="p">I spent over two years planning purchases in Oracle ERP, quoting freight and</text>
+    <text x="48" y="142" class="p">preparing export documents. Today I use SQL, Python and Power BI to find where</text>
+    <text x="48" y="166" class="p">supply chains lose time and money, and to put a number on the fix.</text>
+
+    <g transform="translate(48 200)">
+      <circle cx="9" cy="9" r="9" fill="#1D6AE5"/><path d="M5 9.5 L8 12.5 L13.5 6" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="30" y="14" class="k">Supply chain analytics</text>
+      <text x="30" y="34" class="d">OTIF, lead time, inventory health and supplier scorecards</text>
+    </g>
+    <g transform="translate(48 254)">
+      <circle cx="9" cy="9" r="9" fill="#1D6AE5"/><path d="M5 9.5 L8 12.5 L13.5 6" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="30" y="14" class="k">Business intelligence</text>
+      <text x="30" y="34" class="d">SQL, star-schema models, Power BI dashboards and DAX</text>
+    </g>
+    <g transform="translate(48 308)">
+      <circle cx="9" cy="9" r="9" fill="#1D6AE5"/><path d="M5 9.5 L8 12.5 L13.5 6" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="30" y="14" class="k">Applied research</text>
+      <text x="30" y="34" class="d">Patent analytics on 8.5M USPTO patents and few-shot NLP experiments</text>
+    </g>
+  </g>
+
+  <!-- Right: highlight tiles -->
+  <g class="sans">
+    <g transform="translate(728 40)">
+      <rect width="200" height="128" rx="14" fill="url(#tile)" stroke="#38A0F8" stroke-opacity="0.3"/>
+      <text x="20" y="34" class="lab">GLOBAL MBA</text>
+      <text x="20" y="80" class="num">4.00</text>
+      <text x="20" y="106" class="sub">GPA · Yuan Ze University</text>
+    </g>
+    <g transform="translate(944 40)">
+      <rect width="208" height="128" rx="14" fill="url(#tile)" stroke="#38A0F8" stroke-opacity="0.3"/>
+      <text x="20" y="34" class="lab">EXPERIENCE</text>
+      <text x="20" y="80" class="num">2+ yrs</text>
+      <text x="20" y="106" class="sub">Planning · freight · export</text>
+    </g>
+    <g transform="translate(728 184)">
+      <rect width="200" height="128" rx="14" fill="url(#tile)" stroke="#38A0F8" stroke-opacity="0.3"/>
+      <text x="20" y="34" class="lab">ERP SYSTEMS</text>
+      <text x="20" y="80" class="num">3</text>
+      <text x="20" y="106" class="sub">Oracle · SAP B1 · Odoo</text>
+    </g>
+    <g transform="translate(944 184)">
+      <rect width="208" height="128" rx="14" fill="url(#tile)" stroke="#38A0F8" stroke-opacity="0.3"/>
+      <text x="20" y="34" class="lab">LANGUAGES</text>
+      <text x="20" y="80" class="num">3</text>
+      <text x="20" y="106" class="sub">Vietnamese · English · 中文</text>
+    </g>
+  </g>
+
+  <!-- Bottom strip -->
+  <line x1="48" y1="356" x2="1152" y2="356" stroke="#38A0F8" stroke-opacity="0.15"/>
+  <g class="sans">
+    <path transform="translate(728 366)" d="M9 1.5a6 6 0 0 0-6 6c0 4.5 6 10 6 10s6-5.5 6-10a6 6 0 0 0-6-6Zm0 8.2a2.2 2.2 0 1 1 0-4.4 2.2 2.2 0 0 1 0 4.4Z" fill="#38BDF8"/>
+    <text x="752" y="381" class="chip">Taoyuan, Taiwan</text>
+    <circle cx="891" cy="376" r="5" fill="#10B981"/>
+    <text x="904" y="381" class="chip">Open to supply chain, data and BI roles</text>
+    <text x="48" y="381" class="sub">TOEIC 840 · TOCFL A2 · HackerRank SQL (Advanced)</text>
+  </g>
+</svg>
