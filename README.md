@@ -10,7 +10,7 @@
   <a href="https://haven-portfolio02.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;
   <a href="https://www.linkedin.com/in/havenpham"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:havenpham63729@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
-  <a href="https://haven-portfolio02.vercel.app/assets/Pham_Hong_Hieu_CV_DRAFT.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
+  <a href="https://haven-portfolio02.vercel.app/assets/resume/Pham_Hong_Hieu_Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume (PDF)"></a>
 </p>
 
 <br>
