@@ -41,6 +41,7 @@ languages: [Vietnamese (native), English (TOEIC 840), Mandarin (TOCFL A2)]
 
 | Project | What it shows | Stack |
 |---|---|---|
+| 🔁 [**E-Commerce Cohort & Retention**](https://github.com/Haven-Pham/ecommerce-cohort-retention-analysis) | 2023 sales +24% but profit −12%; repeat buyers = 31% of customers, 56% of profit; deep discounts lost $289K | Python · pandas · pytest · CI |
 | 🥬 [**F&B Supply Chain Analytics**](https://github.com/Haven-Pham/fnb-supply-chain-analytics) | Strict OTIF 89.4% vs 95% target; 2 suppliers cause 55% of late orders; $64K revenue at risk | Python · Power BI · 37 DAX measures |
 | 🚚 [**Transport OTIF Turnaround**](https://github.com/Haven-Pham/transport-logistics-otif-analytics) | 3,582 GPS trips; flat ETA makes long-haul infeasible; early-warning score 72% precision / 82% recall | Python · SciPy · Power BI |
 | ✦ [**ProtoSetFit**](https://github.com/Haven-Pham/ProtoSetFit) | Controlled 2×2 few-shot NLP ablation, 45+ GPU runs, frozen-test evaluation, exact permutation tests | PyTorch · SetFit · Hugging Face |
@@ -50,9 +51,8 @@ languages: [Vietnamese (native), English (TOEIC 840), Mandarin (TOCFL A2)]
 ## 🔬 Research
 
 - **Master's thesis (2026):** *Tracing Technology Convergence Through Patent Analysis: Longitudinal Evidence from USPTO Patents, 1976–2025*. 8.53M utility patents, 188,661 technology pairs, Gompertz/logistic/exponential growth models with a 2020–2025 holdout.
-- **Conference paper (2026, with Prof. Chih-Hung Hsieh):** *Lifecycle Trajectories of First-Time and Subsequent Technology Convergence*. 134.6M citation links; holdout MAPE 0.259% (FTC) and 0.833% (STC).
 
-<sub>Summaries only while the manuscripts are under review.</sub>
+<sub>Summary only; the full thesis is shared on request.</sub>
 
 ## 🧰 Tech stack
 
