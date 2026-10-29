@@ -75,8 +75,16 @@
 | [**F&B Supply Chain Analytics**](https://github.com/Haven-Pham/fnb-supply-chain-analytics) | Strict OTIF 89.4% vs 95% target; two suppliers cause 55% of late orders; $64K revenue at risk | Python · Power BI · 37 DAX measures |
 | [**Transport OTIF Turnaround**](https://github.com/Haven-Pham/transport-logistics-otif-analytics) | 3,582 GPS-tracked trips; early-warning score with 72% precision and 82% recall | Python · SciPy · Power BI |
 | [**ProtoSetFit**](https://github.com/Haven-Pham/ProtoSetFit) | Controlled few-shot NLP ablation, 45+ GPU runs, frozen-test evaluation (team project) | PyTorch · Hugging Face |
-| [**Customer Analytics Playbook**](https://github.com/Haven-Pham/customer-analytics-playbook) | EDA, Pareto, ABC, RFM, market basket, funnel and Sankey analyses | pandas · Plotly · mlxtend |
+| [**Product & Funnel Analysis**](https://github.com/Haven-Pham/product-funnel-conversion-analysis) | Flagship earns 62% of net revenue but refunds hit 10.6%; fair product funnels; leakage-free purchase model | Python · scikit-learn · Excel |
+| [**ABC Customer Profit**](https://github.com/Haven-Pham/abc-customer-profit-analysis) | 29% of customers earn 80% of profit; 3,695 loss-making customers erase $267K | Python · pandas · Excel |
 | [**Portfolio Website**](https://github.com/Haven-Pham/Portfolio) | Four-language site with a Google Sheets CMS and a live GitHub feed | HTML · CSS · JavaScript |
+
+**More case studies:** [Customer Journey Sankey](https://github.com/Haven-Pham/customer-journey-sankey-analysis) ·
+[Marketing Channel Pareto](https://github.com/Haven-Pham/marketing-channel-pareto-analysis) ·
+[RFM Segmentation](https://github.com/Haven-Pham/rfm-customer-segmentation) ·
+[Market Basket Analysis](https://github.com/Haven-Pham/market-basket-analysis) ·
+[Netflix Catalogue EDA](https://github.com/Haven-Pham/netflix-content-eda) ·
+[OTD Issue Tree (MECE)](https://github.com/Haven-Pham/otd-decline-issue-tree)
 
 <img src="assets/title_research.svg" width="100%" alt="Research">
 
@@ -178,7 +186,6 @@ All 22 certificates, with verification links, are listed on the [portfolio websi
 | Repository | Description | Language | Last push |
 |---|---|---|---|
 | [**Portfolio**](https://github.com/Haven-Pham/Portfolio) |  | Jupyter Notebook | 2026-10-28 |
-| [**customer-analytics-playbook**](https://github.com/Haven-Pham/customer-analytics-playbook) |  | Jupyter Notebook | 2026-10-28 |
 | [**ProtoSetFit**](https://github.com/Haven-Pham/ProtoSetFit) |  | Jupyter Notebook | 2026-10-28 |
 | [**transport-logistics-otif-analytics**](https://github.com/Haven-Pham/transport-logistics-otif-analytics) |  | Jupyter Notebook | 2026-10-28 |
 | [**fnb-supply-chain-analytics**](https://github.com/Haven-Pham/fnb-supply-chain-analytics) |  | Jupyter Notebook | 2026-10-28 |
