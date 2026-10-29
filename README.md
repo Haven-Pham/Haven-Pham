@@ -177,10 +177,12 @@ All 22 certificates, with verification links, are listed on the [portfolio websi
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | Last push |
 |---|---|---|---|
-| [**Portfolio**](https://github.com/Haven-Pham/Portfolio) |  | Jupyter Notebook | 2026-10-27 |
+| [**Portfolio**](https://github.com/Haven-Pham/Portfolio) |  | Jupyter Notebook | 2026-10-28 |
+| [**customer-analytics-playbook**](https://github.com/Haven-Pham/customer-analytics-playbook) |  | Jupyter Notebook | 2026-10-28 |
+| [**ProtoSetFit**](https://github.com/Haven-Pham/ProtoSetFit) |  | Jupyter Notebook | 2026-10-28 |
+| [**transport-logistics-otif-analytics**](https://github.com/Haven-Pham/transport-logistics-otif-analytics) |  | Jupyter Notebook | 2026-10-28 |
+| [**fnb-supply-chain-analytics**](https://github.com/Haven-Pham/fnb-supply-chain-analytics) |  | Jupyter Notebook | 2026-10-28 |
 | [**ecommerce-cohort-retention-analysis**](https://github.com/Haven-Pham/ecommerce-cohort-retention-analysis) | Cohort, retention & profitability analysis of 51K e-commerce order lines: Python, pandas, tests and CI | Jupyter Notebook | 2026-10-27 |
-| [**ecommerce-analytics-demo**](https://github.com/Haven-Pham/ecommerce-analytics-demo) | Project analyzing data in E-commerce | Jupyter Notebook | 2026-10-26 |
-| [**MY-RESUME**](https://github.com/Haven-Pham/MY-RESUME) |  | Jupyter Notebook | 2026-04-17 |
 <!-- LATEST-REPOS:END -->
 
 <br>
