@@ -185,11 +185,12 @@ All 22 certificates, with verification links, are listed on the [portfolio websi
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | Last push |
 |---|---|---|---|
-| [**Portfolio**](https://github.com/Haven-Pham/Portfolio) |  | Jupyter Notebook | 2026-10-28 |
-| [**ProtoSetFit**](https://github.com/Haven-Pham/ProtoSetFit) |  | Jupyter Notebook | 2026-10-28 |
-| [**transport-logistics-otif-analytics**](https://github.com/Haven-Pham/transport-logistics-otif-analytics) |  | Jupyter Notebook | 2026-10-28 |
-| [**fnb-supply-chain-analytics**](https://github.com/Haven-Pham/fnb-supply-chain-analytics) |  | Jupyter Notebook | 2026-10-28 |
-| [**ecommerce-cohort-retention-analysis**](https://github.com/Haven-Pham/ecommerce-cohort-retention-analysis) | Cohort, retention & profitability analysis of 51K e-commerce order lines: Python, pandas, tests and CI | Jupyter Notebook | 2026-10-27 |
+| [**Portfolio**](https://github.com/Haven-Pham/Portfolio) |  | JavaScript | 2026-10-29 |
+| [**customer-journey-sankey-analysis**](https://github.com/Haven-Pham/customer-journey-sankey-analysis) |  | Jupyter Notebook | 2026-10-29 |
+| [**product-funnel-conversion-analysis**](https://github.com/Haven-Pham/product-funnel-conversion-analysis) |  | Jupyter Notebook | 2026-10-29 |
+| [**market-basket-analysis**](https://github.com/Haven-Pham/market-basket-analysis) |  | Jupyter Notebook | 2026-10-29 |
+| [**rfm-customer-segmentation**](https://github.com/Haven-Pham/rfm-customer-segmentation) |  | Jupyter Notebook | 2026-10-29 |
+| [**abc-customer-profit-analysis**](https://github.com/Haven-Pham/abc-customer-profit-analysis) |  | Jupyter Notebook | 2026-10-29 |
 <!-- LATEST-REPOS:END -->
 
 <br>
