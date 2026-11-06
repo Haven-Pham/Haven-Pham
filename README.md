@@ -187,12 +187,12 @@ All 22 certificates, with verification links, are listed on the [portfolio websi
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | Last push |
 |---|---|---|---|
-| [**Portfolio**](https://github.com/Haven-Pham/Portfolio) |  | JavaScript | 2026-10-29 |
-| [**customer-journey-sankey-analysis**](https://github.com/Haven-Pham/customer-journey-sankey-analysis) |  | Jupyter Notebook | 2026-10-29 |
-| [**product-funnel-conversion-analysis**](https://github.com/Haven-Pham/product-funnel-conversion-analysis) |  | Jupyter Notebook | 2026-10-29 |
-| [**market-basket-analysis**](https://github.com/Haven-Pham/market-basket-analysis) |  | Jupyter Notebook | 2026-10-29 |
-| [**rfm-customer-segmentation**](https://github.com/Haven-Pham/rfm-customer-segmentation) |  | Jupyter Notebook | 2026-10-29 |
-| [**abc-customer-profit-analysis**](https://github.com/Haven-Pham/abc-customer-profit-analysis) |  | Jupyter Notebook | 2026-10-29 |
+| [**Portfolio**](https://github.com/Haven-Pham/Portfolio) | Personal portfolio: supply chain and data analytics projects, research and certificates, in four languages. | JavaScript | 2026-11-06 |
+| [**demand-forecasting-inventory-optimization**](https://github.com/Haven-Pham/demand-forecasting-inventory-optimization) | What a better demand forecast is worth: LightGBM vs simple methods on 3,049 Walmart products, measured in stock and lost sales. | Jupyter Notebook | 2026-11-06 |
+| [**taiwan-trade-supply-chain-analysis**](https://github.com/Haven-Pham/taiwan-trade-supply-chain-analysis) | Taiwan's export boom through a supply chain lens: official trade and port data, with an interactive EN/繁中 dashboard. | Jupyter Notebook | 2026-11-05 |
+| [**customer-journey-sankey-analysis**](https://github.com/Haven-Pham/customer-journey-sankey-analysis) | Traffic source to landing page to outcome as a Sankey diagram, testing which pages convert best with mix held constant. | Jupyter Notebook | 2026-10-29 |
+| [**product-funnel-conversion-analysis**](https://github.com/Haven-Pham/product-funnel-conversion-analysis) | Product revenue after refunds and six-step purchase funnels, from 472,871 sessions and 1.19M page views. | Jupyter Notebook | 2026-10-29 |
+| [**market-basket-analysis**](https://github.com/Haven-Pham/market-basket-analysis) | Market basket analysis of 25,728 orders with co-occurrence and Apriori, testing whether product associations are real. | Jupyter Notebook | 2026-10-29 |
 <!-- LATEST-REPOS:END -->
 
 <br>
