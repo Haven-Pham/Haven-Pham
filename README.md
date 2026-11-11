@@ -189,7 +189,7 @@ All 22 certificates, with verification links, are listed on the [portfolio websi
 <!-- LATEST-REPOS:START -->
 | Repository | Description | Language | Last push |
 |---|---|---|---|
-| [**Learning-Mandarine-Chinese**](https://github.com/Haven-Pham/Learning-Mandarine-Chinese) |  | JavaScript | 2026-11-10 |
+| [**Learning-Mandarine-Chinese**](https://github.com/Haven-Pham/Learning-Mandarine-Chinese) |  | JavaScript | 2026-11-11 |
 | [**Portfolio**](https://github.com/Haven-Pham/Portfolio) | Personal portfolio: supply chain and data analytics projects, research and certificates, in four languages. | JavaScript | 2026-11-07 |
 | [**olist-delivery-analytics-dbt**](https://github.com/Haven-Pham/olist-delivery-analytics-dbt) | A tested dbt and DuckDB warehouse on 100K Olist orders: when late delivery hurts, who causes it, and whether promises can be shorter. | Jupyter Notebook | 2026-11-07 |
 | [**taiwan-distribution-network-optimization**](https://github.com/Haven-Pham/taiwan-distribution-network-optimization) | Where to put distribution centres in Taiwan: OR-Tools network design and truck routing on real population and road data. | Jupyter Notebook | 2026-11-06 |
